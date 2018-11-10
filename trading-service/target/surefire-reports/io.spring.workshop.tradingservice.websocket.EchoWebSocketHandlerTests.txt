@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.spring.workshop.tradingservice.websocket.EchoWebSocketHandlerTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.149 s - in io.spring.workshop.tradingservice.websocket.EchoWebSocketHandlerTests

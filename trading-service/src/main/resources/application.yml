@@ -1,2 +1,2 @@
 quotes:
-  endpoint: 'http://localhost:8081'
+  endpoint: 'http://stock.app.40.118.202.187.cf.pcfazure.com'

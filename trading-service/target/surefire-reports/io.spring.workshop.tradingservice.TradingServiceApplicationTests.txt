@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.spring.workshop.tradingservice.TradingServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.061 s - in io.spring.workshop.tradingservice.TradingServiceApplicationTests

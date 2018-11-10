@@ -1,0 +1,3 @@
+io\spring\workshop\tradingservice\TradingServiceApplicationTests.class
+io\spring\workshop\tradingservice\websocket\EchoWebSocketHandlerTests.class
+io\spring\workshop\tradingservice\UserControllerTests.class
